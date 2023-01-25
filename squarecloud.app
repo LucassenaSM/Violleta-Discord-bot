@@ -1,0 +1,5 @@
+DISPLAY_NAME=BOT1
+DESCRIPTION=botDc
+MAIN=index.js
+MEMORY=100
+VERSION=recommended
